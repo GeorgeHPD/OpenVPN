@@ -9,7 +9,7 @@ sudo apt upgrade
 
 2° baixar script de instalação
 ```
-wget https://github.com/GeorgeHPD/OpenVPN/blob/bc878fc11a9b87880040e730770ab90301e75971/openvpn-ubuntu-install.sh
+wget https://github.com/GeorgeHPD/OpenVPN/blob/5b28233d5aff8e3f42f06d592d95b0695ee5a05d/openvpn-ubuntu-install.sh
 ```
 3° Configurar permissões 
 ```
